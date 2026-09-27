@@ -39,3 +39,5 @@ let Data = Product_Info.map(ele =>{
 let Parent = document.getElementsByClassName("parent")[0]
 let MergedInfo = Data.join(",")
 Parent.innerHTML = MergedInfo
+
+// this is the code for the search bar
